@@ -10,7 +10,7 @@ const ListOfInterviews = (props) => {
 
     const data = [
         ['Islam Akylbek uulu', '29/06/18', 'Junior JS Developer', 'Name Surname', MakeLinked('Изменить', 'edit_interview'), MakeLinked('Удалить', 'DeleteLink')],
-        ['Name surname', '29/06/18', 'Middle JS Developer', 'Name2 Surname', MakeLinked('Изменить', 'edit_interview'), MakeLinked('Удалить', 'DeleteLink')],
+        ['Name surname', '29/06/18', 'Middle Python Developer', 'Name2 Surname', MakeLinked('Изменить', 'edit_interview'), MakeLinked('Удалить', 'DeleteLink')],
         ['Human human', '29/06/18', 'Senior Java Developer', 'Name3 Surname', MakeLinked('Изменить', 'edit_interview'), MakeLinked('Удалить', 'DeleteLink')],
     ];
 
